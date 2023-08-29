@@ -1,4 +1,4 @@
-![Glassmorphism Login page](https://github.com/creatoraashu/GLassmorphism-Sign-Up-Page/assets/130897584/715c12b7-2ecc-40a7-ad66-6556500e8bc7)
+![Glassmorphism Signup form](https://github.com/creatoraashu/GLassmorphism-Sign-Up-Page/assets/130897584/cf6a6603-7e9c-486a-9a34-8ace1ffe66fe)
 
 # GLassmorphism-Sign-Up-Page
 Animated GLassmorphism Sign Up Page using HTML &amp; CSS.
